@@ -1,6 +1,6 @@
 {
-    "title": "Introduce your product quickly & effectively",
-    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
+    "title": "Future Goals",
+    "text": "Our future plans for this application are to invest in a higher quality API whcih is able to procces and return and greater varity and depth of data as well as eventually being able to account for a users past medical history",
     "button": "Get started"
   }
   

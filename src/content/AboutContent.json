@@ -1,15 +1,15 @@
 {
   "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "text": "This WebApp is ready to use, so you don't need to change anything at a component level, You can simply enter your symptoms and see your results",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Our Application?",
+      "content": "Our Design is meant to take into account that healthcare in the United States is unaforadable and the vast ocean of data available to be analyzed cannot be done by a human in any timely manner.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "The Solution",
+      "content": "By utilizing a machine learning based API we are able to provide a preliminary analysis of a condition before the patient decides weather or not to go to the doctor. This saves cost by enabling patients to only get checked when they know the problem is serious enough to warrent the cost of healthcare. furhtermore, the use of machine learnig allows for the analysis of a quantity of data which previously counldn't be accuratly accounted for",
       "icon": "notes.svg"
     }
   ]
