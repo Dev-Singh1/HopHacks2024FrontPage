@@ -1,6 +1,6 @@
 {
-  "title": "WebApp for data driven disease prediction and prevention",
-  "text": "Beautifully designed data visualizer using React.js, ant design and styled-components! this application is perfectly designed to extrapolate potential disease and reccomend treatments based on symptoms",
+  "title": "Smart HealthCare System",
+  "text": "The goal of this application is to catalouge various illnesses and their risk factors in order to forecast the liklyhood of a pateint delvoping the disease in the near future",
   "button": [
     {
       "title": "Explore"
