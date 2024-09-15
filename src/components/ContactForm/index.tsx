@@ -20,7 +20,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
   return (
               <ButtonContainer>
               <Button>
-                <a color="white" href="http://0.0.0.0:3000">Go To App</a>
+                <a style="color:"antiquewhite" " href="http://0.0.0.0:3000">Go To App</a>
               </Button>
               </ButtonContainer>
   );
