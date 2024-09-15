@@ -1,6 +1,6 @@
 {
     "title": "Future Goals",
-    "text": "Our future plans for this application are to invest in a higher quality API whcih is able to procces and return and greater varity and depth of data as well as eventually being able to account for a users past medical history",
+    "text": "Our future plans for this application are to implement a more advanced machine learning model and to add support for additional diseases.",
     "button": "Get started"
   }
   
